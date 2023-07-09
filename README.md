@@ -3,14 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koola123&label=Profile%20views&color=0e75b6&style=flat" alt="koola123" /> </p>
 
-- 🌱 I’m currently diving deeper into **Bootstrap5 and React**
+<h1>Hi there 👋</h1>
 
-- 💬 Ask me about **JavaScript, MERN, Angular, TypeScript**
+- 🌱 I’m currently working on a my own teaching blog**
+
+- 🎯 Learning NestJS!
+
+- 🧐 I'm open to recommendations (videos, online courses) for helping me
+  learn new languages :)
+  
+- 💬 Ask me about my recent golf match ⛳️
 
 - 📫 How to reach me **mmueringer@web.de**
 
-- ⚡ Fun fact **koola123 is derived from Koʻolau Range(Hawaii)**
+- 😁 Pronouns: he/him
 
+- ⚡ Fun fact: I'm using 3 smartphones, each one for a different Chat-Messenger 😅
+
+- 👨🏻‍💻 Tech skills: HTML5, CSS, JavaScript, TypeScript, Node.js, AWS, MongoDB,
+  React, Angular, Heroku, RESTful APIs, Google Firestore & Firebase
+  
 <hr>
 
 <h3 align="left">Connect with me:</h3>
