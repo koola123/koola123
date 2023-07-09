@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working on my blog**
 
-- 🎯 Learning NestJS!
+- 🎯 Learning NextJS!
 
 - 🧐 I'm open to recommendations (videos, online courses) for helping me
   learn new languages :)
