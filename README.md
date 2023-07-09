@@ -1,7 +1,3 @@
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koola123&label=Profile%20views&color=0e75b6&style=flat" alt="koola123" /> </p>
-
 <h1>Hi there 👋</h1>
 
 - 🌱 I’m currently working on a my own teaching blog**
