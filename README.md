@@ -13,7 +13,7 @@
 
 - 😁 Pronouns: he/him
 
-- ⚡ Fun fact: I'm using 3 smartphones, each one for a different Chat-Messenger 😅
+- ⚡ Fun fact: I'm using three smartphones with a different Chat-Messenger 😅
 
 - 👨🏻‍💻 Tech skills: HTML5, CSS, JavaScript, TypeScript, Node.js, AWS, MongoDB,
   React, Angular, Heroku, RESTful APIs, Google Firestore & Firebase
