@@ -7,7 +7,7 @@
 - 🧐 I'm open to recommendations (videos, online courses) for helping me
   learn new languages :)
   
-- 💬 Ask me about my recent golf match ⛳️
+- 💬 Ask me about my recent hiking trip ⛰
 
 - 📫 How to reach me **mmueringer@web.de**
 
