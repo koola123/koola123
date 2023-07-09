@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-- 🌱 I’m currently working on a my own teaching blog**
+- 🌱 I’m currently working on a my blog**
 
 - 🎯 Learning NestJS!
 
