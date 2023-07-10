@@ -1,4 +1,4 @@
-<h1>Hi there, I'm a proud coding bootcamp grad 👋</h1>
+<h1>Hi there 👋</h1>
 
 - 🌱 I’m currently working on my blog**
 
